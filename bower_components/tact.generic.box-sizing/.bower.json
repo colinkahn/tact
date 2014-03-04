@@ -1,0 +1,15 @@
+{
+  "name": "tact-box-sizing",
+  "version": "0.1.0",
+  "homepage": "https://github.com/colinkahn/tact.generic.box-sizing",
+  "main": "_generic.box-sizing.scss",
+  "_release": "0.1.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.1.0",
+    "commit": "ea6f29499421b95f7c715184bdfb92bb47340a6e"
+  },
+  "_source": "git@github.com:colinkahn/tact.generic.box-sizing.git",
+  "_target": "0.1.0",
+  "_originalSource": "git@github.com:colinkahn/tact.generic.box-sizing.git"
+}
